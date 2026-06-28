@@ -1,5 +1,6 @@
-id,name,action,accounts,start_datetime,end_datetime,reason,active
-nfp-jul-2026,NFP July 2026,pause,ALL,2026-07-07 08:00,2026-07-07 11:00,NFP Release,false
-cpi-jul-2026,CPI July 2026,pause,ALL,2026-07-14 08:00,2026-07-14 10:00,CPI Data Release,false
-fomc-jul-2026,FOMC July 2026,pause,ALL,2026-07-30 18:00,2026-07-30 21:00,FOMC Interest Rate,false
-example-one-acc,Account Specific Example,pause,12345,2026-07-07 08:00,2026-07-07 11:00,Test,false
+Account,Action,Date,Start Time (PKT),End Time (PKT),Active
+ALL,pause,2026-07-07,13:30,16:30,false
+ALL,pause,2026-07-14,13:30,15:30,false
+ALL,pause,2026-07-30,23:00,02:00,false
+ALL,pause,,, ,false
+ALL,pause,,, ,false
