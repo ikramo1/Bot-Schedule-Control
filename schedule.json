@@ -1,0 +1,27 @@
+{
+  "global_status": "running",
+  "updated_at": "2026-06-28T00:00:00Z",
+  "note": "Bots check this file every 10 minutes. Empty accounts[] = all accounts.",
+  "schedules": [
+    {
+      "id": "example-001",
+      "name": "Example: NFP News Pause",
+      "action": "pause",
+      "accounts": [],
+      "start_datetime": "2026-07-07T08:00:00",
+      "end_datetime": "2026-07-07T11:00:00",
+      "reason": "NFP Release - High Impact",
+      "active": false
+    },
+    {
+      "id": "example-002",
+      "name": "Example: Account 12345 Only Pause",
+      "action": "pause",
+      "accounts": ["12345"],
+      "start_datetime": "2026-07-10T08:00:00",
+      "end_datetime": "2026-07-10T10:00:00",
+      "reason": "CPI Data Release",
+      "active": false
+    }
+  ]
+}
