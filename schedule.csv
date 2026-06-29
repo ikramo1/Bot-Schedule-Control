@@ -1,5 +1,5 @@
 Account,Action,Date,Start Time (PKT),End Time (PKT),Active
-ALL,pause,2026-06-30,1:20,3:35,no
+ALL,pause,2026-06-30,2:20,3:35,yes
 ALL,pause,2026-07-14,13:30,15:30,no
 ALL,pause,2026-07-30,23:00,02:00,no
 ALL,pause,,,, no
