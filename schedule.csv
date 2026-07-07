@@ -2,5 +2,13 @@ Account,Action,Date,Start Time (PKT),End Time (PKT),Active
 ALL,pause,2026-07-6,15:00,21:45,yes
 ALL,pause,2026-07-8,04:05,11:30,yes
 ALL,pause,2026-07-10,14:00,19:30,yes
-ALL,pause,,,, no
-ALL,pause,,,, no
+ALL,pause,2026-07-14,15:30,21:45,yes
+ALL,pause,2026-07-15,15:05,22:00,yes
+ALL,pause,2026-07-16,9:30,13:30,yes
+ALL,pause,2026-07-20,15:00,20:45,yes
+ALL,pause,2026-07-21,03:05,14:30,yes
+ALL,pause,2026-07-22,9:00,15:30,yes
+ALL,pause,2026-07-23,4:30,21:45,yes
+ALL,pause,2026-07-29,04:05,9:30,yes
+ALL,pause,2026-07-30,14:00,20:30,yes
+ALL,pause,2026-07-31,04:00,22:30,yes
